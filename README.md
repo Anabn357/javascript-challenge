@@ -46,3 +46,18 @@ You can handle this... right? The planet Earth needs to know what we have found!
   5. `shape`
 
 - - -
+
+
+### Dataset
+
+* [UFO Sightings Data](StarterCode/static/js/data.js)
+
+- - -
+
+**Good luck!**
+
+- - -
+
+### Copyright
+
+Trilogy Education Services © 2019. All Rights Reserved.
